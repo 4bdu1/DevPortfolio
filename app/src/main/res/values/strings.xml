@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DevPortfolio</string>
+    <string name="about_abdul">Hi, my name is Abdul Aziz. I am a software developer with strong
+    interests in AI and machine learning as well as building high quality software applications.
+    I have strong programming skills in Java, Python and Javascript. I also have strong analytical,
+    creative and problem-solving skills and aim to become a world class expert in Software Engineering.</string>
+    <string name="skills">* Java "\n"* Android "\n"* Python "\n"* Javascript "\n"* DevOps "\n"* Teaching</string>
+    <string name="work">* UG Stethoscope App "\n"*ECG Mobile App "\n"*Qos CrowdSource App</string>
+    <string name="contact">Email: abdulaziztetteh@gmail.com</string>
+
+</resources>
